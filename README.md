@@ -6,7 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taimullinked)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taimul.haque@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20CV-34A853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1M9JCjLzd2gYU1yP75g2lWzqdqmSFEsSb/view?usp=share_link)
+[![Resume](https://img.shields.io/badge/Resume-View%20Resume-34A853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1M9JCjLzd2gYU1yP75g2lWzqdqmSFEsSb/view?usp=share_link)
+[![CV](https://img.shields.io/badge/CV-View%20CV-F4B400?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1QXFkB6Ixo3DC48eKXNjL3dnMpO9FetbP/view?usp=drive_link)
 
 </div>
 
