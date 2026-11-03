@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Taimul+Pathan;MERN+Stack+Developer+from+Bangladesh;Building+with+React+%2B+TypeScript;Currently+learning+React+Native)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://taimul.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taimullinked)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taimul.haque@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20Resume-34A853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1M9JCjLzd2gYU1yP75g2lWzqdqmSFEsSb/view?usp=share_link)
-[![CV](https://img.shields.io/badge/CV-View%20CV-F4B400?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1QXFkB6Ixo3DC48eKXNjL3dnMpO9FetbP/view?usp=drive_link)
 
 </div>
 
@@ -20,7 +20,7 @@ I build clean, responsive, user-friendly web applications. My main stack is **ME
 - 🌱 **Learning:** React Native
 - 💬 **Ask me about:** MERN Stack, React, TypeScript
 - 🎯 **Focus:** Frontend development, UI design, responsive web apps
-- 📫 **Reach me:** taimul.haque@gmail.com
+- 🌐 **Portfolio:** [taimul.vercel.app](https://taimul.vercel.app/) · [source code](https://github.com/taimul/protfolio)
 
 ---
 
